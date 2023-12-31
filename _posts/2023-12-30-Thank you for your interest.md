@@ -26,4 +26,4 @@ It is depressing when you get instant rejections, you weren't even given a chanc
 
 Job searching is a truly humbling experience. I was once a proud employee, working at a great product company. Looking back I probably derived a lot of my self-worth from my employment status. When I was employed, every other day, I used to get DMs from recruiters with offers, how I miss those days! Now that you are unemployed, no one wants to touch you with a ten foot pole. 
 
-End rant. Time to apply again. Or may network? Yuck. A topic for another day.
+End rant. Time to apply again. Or maybe network? Yuck. A topic for another day.
