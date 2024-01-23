@@ -1,0 +1,14 @@
+---
+layout: post
+title: The search for meaning in love
+---
+*Chapters from a book I'll never publish*
+
+I've always been an existentialist, fancy word for someone who's mostly lost, depressed and searching for meaning. This constant search for meaning and questioning your existence can get tiring pretty quickly. It weighs you down heavily, it is a feeling that never goes, it is just an endless series of questions with streaks of light here and there. Those who have experienced it, will know what I mean.
+
+As someone who is single now after having been in serious relationships for a greater part of the last decade, I'm starting to connect the dots and understand myself better now. I am starting to see how much of a difference just having someone to talk to at the end of the day made. These days, I find myself constantly in an existential space, trying to seek meaning, mostly by throwing myself into work.
+
+Looking back, the only thing I didn't question and fully threw myself into was love. Without going into much details, let's just say the circumstances that I dealt with as a child and later as a young adult were pretty unique (much has been said about how your upbringing affects your relationships). When you are constantly seeking meaning, you need something to anchor yourself to, I've come to understand that to me it is romantic love. It's cliche but the true meaning of life is perhaps really love. Love for your parents, children or romantic partners.\
+I had my first serious relationship when I was around 15-16, contrary to what people believe, yes, you can have a serious relationship when you are that young. Relationships are brutal, heart breaking and the dull ache of failed relationships never fully goes away. You simply learn to live with it. Now, with the bad parts out of the way --- while you are in it, if you have your love reciprocated, there is no feeling quite like it. That feeling has saved me on more than one occasion when I was totally and utterly lost. It has also had the greatest impact on who I am as a person today. Ideal? Perhaps not, but who cares? That is the power of love, you don't think rationally.
+
+If you are anything like me, your toxic trait would be to think --- "She will save me" or worse --- "I can save her." What I've learnt is, love is not meant to be therapy for your disturbed soul. Seems obvious but it isn't. Your partner can have a calming effect on you and take the demons away for a while, but remember those demons are yours to carry.
