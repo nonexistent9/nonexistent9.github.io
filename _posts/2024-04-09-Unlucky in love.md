@@ -1,5 +1,6 @@
 ---
 title: (Un)Lucky in Love
+layout: post
 ---
 I realized even my previous blogpost was about love and relationships, I didn’t intend to necessarily write about love again. It's just been on my mind quite a bit. 
 
