@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The first generation to grow up on social media: A rant
+title: "The first generation to grow up on social media: A rant"
 ---
 I’m probably part of the first generation that grew up on the internet. I created my first social media account - Facebook when I was in middle school. I had heard about Orkut before that but never bothered to create an account because my understanding was that it was meant for  ‘older people’, Facebook was the hip thing.
 
