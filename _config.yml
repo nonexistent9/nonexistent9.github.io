@@ -39,6 +39,9 @@ remote_theme: jekyll/minima
 
 minima:
   skin: solarized
+
+header_pages: 
+  - articles.md
  
 
 # Exclude from processing.
