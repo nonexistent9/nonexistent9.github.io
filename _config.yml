@@ -41,7 +41,7 @@ minima:
   skin: solarized
 
 header_pages: 
-  - articles.md
+  - articles.markdown
  
 show_excerpts: true
 
