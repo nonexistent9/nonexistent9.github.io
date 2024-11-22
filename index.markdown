@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
 <h1 id="hello-i-m-varun-">Hello I&#39;m Varun! 👋</h1>
