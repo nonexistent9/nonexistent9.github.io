@@ -10,4 +10,4 @@ title: About
 <p>In my downtime you can find me exercising, catching up on the latest trends in tech or being sucked into YouTube&#39;s algorithmic blackhole! </p>
 <hr>
 
-<p><a href="https://drive.google.com/file/d/1YtK759KJtHEmF5dm1-tWDwmRUR9SSlP9/view?usp=sharing">View my full Resume here</a></p>
+<iframe src="https://drive.google.com/file/d/1YtK759KJtHEmF5dm1-tWDwmRUR9SSlP9/preview" width="640" height="480" allow="autoplay"></iframe>
