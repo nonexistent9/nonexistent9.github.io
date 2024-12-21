@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 ---
 
 They say as you get older the days go faster. It's because day after day it's just a repeat. It’s no longer memorable, you don’t have anything new happening. 
