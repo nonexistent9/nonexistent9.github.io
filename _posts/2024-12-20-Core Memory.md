@@ -1,5 +1,4 @@
 ---
-title: Core Memory
 layout: Post
 ---
 
