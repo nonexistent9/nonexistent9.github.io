@@ -12,5 +12,5 @@ It’s always very different with childhood friends – I don’t have a lot of 
  
 Her presence taught me the importance of having company and having people who actually care about you. I felt that after a long time – like someone cared about me outside my immediate family. 
 
-Through ups and downs – forever grateful for her. 
+Through ups and downs – forever grateful for her.  
 
