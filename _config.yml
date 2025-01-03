@@ -64,3 +64,9 @@ header_pages:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+# Add a menu item for an external link
+navigation:
+  - title: "Product Experiments"
+    url: "https://portfolio.varunraghu.com/"
