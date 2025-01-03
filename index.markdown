@@ -2,6 +2,9 @@
 layout: base
 title: About
 ---
+{% for link in site.data.navigation %}
+  <a class="page-link" href="{{ link.url }}">{{ link.title }}</a>
+{% endfor %}
 
 <h1 id="hello-i-m-varun-">Hello I&#39;m Varun! 👋</h1>
 <p>I am currently pursuing a master&#39;s degree in Business Analytics from W.P.Carey School of Business at Arizona State University. </p>
