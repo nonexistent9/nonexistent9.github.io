@@ -42,8 +42,6 @@ minima:
 
 header_pages: 
   - articles.markdown
-  - title: Product Experiments
-    url: "https://portfolio.varunraghu.com/"
  
 #show_excerpts: true
 
