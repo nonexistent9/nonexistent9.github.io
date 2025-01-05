@@ -24,8 +24,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Product Marketing | Business Analyst | Competitive Intelligence | Generalist | Thinker
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-github_username: nonexistent9
+github_username:  nonexistent9
+linkedin_username: varun-raghunathan
+
 
 # Build settings
 #theme: minima
@@ -39,9 +40,9 @@ remote_theme: jekyll/minima
 
 minima:
   skin: solarized
+  
 
 header_pages: 
-  - articles.markdown
   - pow.md
  
 #show_excerpts: true
