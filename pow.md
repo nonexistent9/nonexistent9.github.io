@@ -1,37 +1,43 @@
 ---
-layout: home 
+layout: post
 title: Proof of Work
 ---
+<style>
+        /* Simple navigation list styling */
+        
+        
+        nav ul {
+            position: sticky;
+            top: 0;
+            padding: 0;
+            margin: 0;
+        }
+        nav ul li {
+            display: inline; /* Display links inline for a horizontal layout */
+            margin-right: 10px;
+        }
+        nav ul li a {
+            text-decoration: none;
+            color: #0073e6;
+            padding: 5px 10px;
+            border: 1px solid transparent;
+        }
+        nav ul li a:hover {
+            background-color: #ddd;
+            border-radius: 4px;
+        }
+    </style>
 
-**Freshchat building battlecards from scratch**
+<nav>
+        <ul>
+            <li><a href="#Battlecards">Building Battlecards</a></li>
+            <li><a href="#Casestudy">Customer Case Studies</a></li>
+            <li><a href="#Rebranding">Rebranding for IPO</a></li>
+            <li><a href="#Others">Other Projects</a></li>
+        </ul>
+    </nav>
 
-**Problem**   
-We were gearing up to re-launch [Freshchat](https://www.freshworks.com/live-chat-software/). I had just joined the Freshchat product marketing team. We were in an extremely crowded space with little to no differentiation between players. I had about \~3 months to prepare battlecards for our top 4-5 competitors. 
-
-**Impact**  
-Delivered battle cards against top competitors on time. Touched \~1000 GTM team members. Sole member of the Freshchat competitive intelligence team. Prepared ad-hoc competitive materials to help sales win deals exceeding $100k+ Annual recurring revenue.
-
-**Customer Case Studies**
-
-- Worked with the support team to reach out to customers who were satisfied with product and hadn’t raised any companints in the last 6 months   
-- Reached out from the support team because they were more likely to reply   
-- Worked quickly to interview customers and write the case study and get approval from customer   
-- As a gesture of thank you sent out cupcakes and greeting to customers  
-- Result: published 15+ customer stories in 3 months 
-
-**Rebranding for IPO** 
-
-- Was responsible for rebranding [Freshcaller](https://www.freshworks.com/freshcaller-cloud-pbx/) to Freshdesk Contact Center (Looks like it's been re-re-branded to Freshcaller again) for Freshwork’s IPO  
-- Coordinated with multiple teams \- product, marketing, localization and web operations   
-- Sorted top webpages by visits leveraging google analytics   
-- Prioritized web pages and made modifications to reflect new brand 
-
-**Other Projects:**
-
-- Wrote one of the best performing blog posts that ranked on the first page of Google and received more than 30,000 visits.   
-- Crafted use-cases for high growth B2C vertices 
-
-### **Building Battlecards from Scratch**
+<h2 id="Battlecards"> Building Battlecards from Scratch </h2>
 
 **Problem**  
 Freshchat was gearing up for a major re-launch, and we were entering an extremely competitive space with little differentiation between players. I had just moved teams due to a reorg and as a new member of the Freshchat product marketing team, I had \~3 months to prepare battlecards for our top 4–5 competitors, starting from scratch.
@@ -49,7 +55,7 @@ Freshchat was gearing up for a major re-launch, and we were entering an extremel
 
 ---
 
-### **Customer Case Studies: Partnering with Support to Boost Social Proof**
+<h2 id="Casestudy"> Customer Case Studies: Partnering with Support to Boost Social Proof </h2>
 
 **Problem**  
 We needed compelling customer stories to showcase Freshcaller’s value, but sourcing customer testimonials had been challenging and was not done at scale. 
@@ -67,7 +73,7 @@ We needed compelling customer stories to showcase Freshcaller’s value, but sou
 
 ---
 
-### **Rebranding for IPO: Freshcaller to Freshdesk Contact Center**
+<h2 id="Rebranding"> Rebranding for IPO: Freshcaller to Freshdesk Contact Center </h2>
 
 **Problem**  
 As Freshworks prepared for its IPO, Freshcaller needed to be rebranded to align with the broader Freshdesk suite with tight collaboration across marketing, product, and web operations.
@@ -85,7 +91,7 @@ As Freshworks prepared for its IPO, Freshcaller needed to be rebranded to align 
 
 ---
 
-### **Other Projects:**
+<h2 id="Others"> Other Projects </h2>
 
 * **SEO:** Wrote one of Freshworks' best-performing blog posts, which ranked on the first page of Google and attracted over 30,000 visits.  
 * **B2C Sales Plays:** Designed and crafted tailored use-cases for high-growth B2C verticals, driving adoption and better alignment with customer needs.  
