@@ -24,8 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Product Marketing | Business Analyst | Competitive Intelligence | Generalist | Thinker
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  nonexistent9
-linkedin_username: varun-raghunathan
+#github_username:  nonexistent9
 
 
 # Build settings
@@ -40,6 +39,10 @@ remote_theme: jekyll/minima
 
 minima:
   skin: solarized
+  social_links:
+   #- { platform: github, user_url: "https://github.com/nonexistent9" }
+   - { platform: x, user_url: "https://www.linkedin.com/in/varun-raghunathan/" }
+   - { platform: twitter, user_url: "https://twitter.com/nonexistent9" }
   
 
 header_pages: 
@@ -66,3 +69,4 @@ header_pages:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
