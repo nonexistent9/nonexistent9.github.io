@@ -40,7 +40,7 @@ title: Proof of Work
 <h2 id="Battlecards"> Building Battlecards from Scratch </h2>
 
 **Problem**  
-Freshchat was gearing up for a major re-launch, and we were entering an extremely competitive space with little differentiation between players. I had just moved teams due to a reorg and as a new member of the Freshchat product marketing team, I had \~3 months to prepare battlecards for our top 4–5 competitors, starting from scratch.
+<a href="https://www.freshworks.com/live-chat-software/" target="_blank"> Freshchat </a> was gearing up for a major re-launch, and we were entering an extremely competitive space with little differentiation between players. I had just moved teams due to a reorg and as a new member of the Freshchat product marketing team, I had \~3 months to prepare battlecards for our top 4–5 competitors, starting from scratch.
 
 **Approach**
 
@@ -55,10 +55,10 @@ Freshchat was gearing up for a major re-launch, and we were entering an extremel
 
 ---
 
-<h2 id="Casestudy"> Customer Case Studies: Partnering with Support to Boost Social Proof </h2>
+<h2 id="Casestudy"> <a href="https://drive.google.com/drive/folders/1sNAJ5theha-ISAPWcpRB_3jjKc0V8C3X?usp=sharing" target="_blank">Customer Case Studies</a>: Partnering with Support to Boost Social Proof </h2>
 
 **Problem**  
-We needed compelling customer stories to showcase Freshcaller’s value, but sourcing customer testimonials had been challenging and was not done at scale. 
+We needed compelling customer stories to showcase <a href="https://www.freshworks.com/freshcaller-cloud-pbx/" target="_blank"> Freshcaller's </a> value, but sourcing customer testimonials had been challenging and was not done at scale. 
 
 **Approach**
 
@@ -70,6 +70,8 @@ We needed compelling customer stories to showcase Freshcaller’s value, but sou
 **Impact**
 
 * Published 15+ customer stories and collected several testimonials in just 3 months. The campaign has a response rate of more than 50% from customers. 
+
+Link to a few <a href="https://drive.google.com/drive/folders/1sNAJ5theha-ISAPWcpRB_3jjKc0V8C3X?usp=sharing" target="_blank">Customer Case Studies.</a> Please excuse the formatting as I had to retrieve them using the web archive and convert it to a pdf. 
 
 ---
 
@@ -93,6 +95,6 @@ As Freshworks prepared for its IPO, Freshcaller needed to be rebranded to align 
 
 <h2 id="Others"> Other Projects </h2>
 
-* **SEO:** Wrote one of Freshworks' best-performing blog posts, which ranked on the first page of Google and attracted over 30,000 visits.  
+* **SEO:** Wrote one of Freshworks' [best-performing blog posts](https://drive.google.com/file/d/15jwUvg41DzP1kIKaY1jS_awRryALWx3V/view?usp=sharing), which ranked on the first page of Google and attracted over 30,000 visits. 
 * **B2C Sales Plays:** Designed and crafted tailored use-cases for high-growth B2C verticals, driving adoption and better alignment with customer needs.  
 * **Knowledge Base Revamp:** Authored 50+ in-depth product articles, covering key features, troubleshooting steps, and best practices in collaboration with product and support teams. 
