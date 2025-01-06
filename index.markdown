@@ -11,7 +11,7 @@ Before I decided to take the plunge and become a full time student, I worked as 
 
 By education, I’m an engineer. By profession, a product marketer. But at my core, I’m a generalist who loves tinkering. I love wearing multiple hats and take pride in my ability to analyze, design, code and sell. 
 
-Check out my [product experiments here](https://portfolio.varunraghu.com/). 
+Check out my [product experiments here](/projects.html). 
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/feed/). 🤝
 <hr>
