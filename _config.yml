@@ -45,6 +45,7 @@ minima:
 
 header_pages: 
   - pow.md
+  - projects.md
  
 #show_excerpts: true
 
