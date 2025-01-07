@@ -131,8 +131,8 @@ a:hover {
       <h4> Analyze Product Reviews with AI.</h4>
     </div>
     <div class="flip-box-back">
-    <!-- <h3><a href="https://citool.streamlit.app/" target="_blank"> Visit </a></h3> -->
-        <h3><a href="https://youtu.be/C5k3jRC7JjM" target="_blank"> View Demo </a></h3>
+     <h3><a href="https://citool.streamlit.app/" target="_blank"> Visit </a></h3> 
+        <!--<h3><a href="https://youtu.be/C5k3jRC7JjM" target="_blank"> View Demo </a></h3> -->
     </div>
   </div>
 </div>
