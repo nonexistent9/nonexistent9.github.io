@@ -85,12 +85,12 @@ a:hover {
 <div class="flip-box">
   <div class="flip-box-inner">
     <div class="flip-box-front">
-      <h2>Zeke</h2>
+      <h2>Zeke📝</h2>
       <h4> AI Powered Platform for Job Seekers </h4>
     </div>
     <div class="flip-box-back">
-      <h3><a href="https://zeke.so/" target="_blank"> Visit </a></h3>
-      <h3><a href="https://youtu.be/Xq8N4Jddtm0?si=TCaDzpbkSGcZq7AI" target="_blank"> View Demo </a></h3>
+      <h3><a href="https://zeke.so/" target="_blank"> Visit↗️</a></h3>
+      <h3><a href="https://youtu.be/Xq8N4Jddtm0?si=TCaDzpbkSGcZq7AI" target="_blank"> View Demo📽️</a></h3>
     </div>
   </div>
 </div>
@@ -99,12 +99,12 @@ a:hover {
 <div class="flip-box">
   <div class="flip-box-inner">
     <div class="flip-box-front">
-      <h2>Zapplink</h2>
+      <h2>Zapplink🔗</h2>
       <h4> Easier way to collect and share links. </h4>
     </div>
     <div class="flip-box-back">
-      <h3><a href="https://www.zappl.ink/" target="_blank"> Visit </a></h3>
-      <h3><a href="https://youtu.be/CpbARxf_WJ0" target="_blank"> View Demo </a></h3>
+      <h3><a href="https://www.zappl.ink/" target="_blank"> Visit↗️</a></h3>
+      <h3><a href="https://youtu.be/CpbARxf_WJ0" target="_blank"> View Demo📽️ </a></h3>
     </div>
   </div>
 </div>
@@ -113,12 +113,12 @@ a:hover {
 <div class="flip-box">
   <div class="flip-box-inner">
     <div class="flip-box-front">
-      <h2>Udaivi</h2>
-      <h4> Easier way to collect and share links. </h4>
+      <h2>Udaivi🖥️</h2>
+      <h4> AI Assistant to help plan your day. </h4>
     </div>
     <div class="flip-box-back">
-      <h3><a href="https://udaivi.framer.website/" target="_blank"> Visit </a></h3>
-      <h3><a href="https://youtu.be/C5k3jRC7JjM" target="_blank"> View Demo </a></h3>
+      <h3><a href="https://udaivi.framer.website/" target="_blank"> Visit↗️</a></h3>
+      <h3><a href="https://youtu.be/C5k3jRC7JjM" target="_blank"> View Demo📽️ </a></h3>
     </div>
   </div>
 </div>
@@ -127,11 +127,11 @@ a:hover {
 <div class="flip-box">
   <div class="flip-box-inner">
     <div class="flip-box-front">
-      <h2>Review Analyzer</h2>
+      <h2>Review Analyzer🔍</h2>
       <h4> Analyze Product Reviews with AI.</h4>
     </div>
     <div class="flip-box-back">
-     <h3><a href="https://citool.streamlit.app/" target="_blank"> Visit </a></h3> 
+     <h3><a href="https://citool.streamlit.app/" target="_blank"> Visit↗️</a></h3> 
         <!--<h3><a href="https://youtu.be/C5k3jRC7JjM" target="_blank"> View Demo </a></h3> -->
     </div>
   </div>
