@@ -2,7 +2,7 @@
 layout: post
 title: "The first generation to grow up on social media: A rant"
 ---
-Update (11-1-2025): Meta is apparently now going to allow <a href="https://glaad.org/releases/meta-removes-anti-lgbtq-hate-speech-policies-ends-fact-checking/" target="_blank"> free speech </a> on their platform and is doing away with their content moderation team. This essentially translates to "we no longer take responsibility for what users post on our platform and will allow hateful/racist/transphobic content. We all saw how that worked out for X, can't scroll two seconds on there anymore without coming across neo-nazi content. 
+Update (11-1-2025): Meta is apparently now going to allow <a href="https://glaad.org/releases/meta-removes-anti-lgbtq-hate-speech-policies-ends-fact-checking/" target="_blank"> free speech </a> on their platform and is doing away with their content moderation team. This essentially translates to "we no longer take responsibility for what users post on our platform and will allow hateful/racist/transphobic content." We all saw how that worked out for X, can't scroll two seconds on there anymore without coming across neo-nazi content. 
 
 I’m probably part of the first generation that grew up on the internet. I created my first social media account - Facebook when I was in middle school. I had heard about Orkut before that but never bothered to create an account because my understanding was that it was meant for  ‘older people’, Facebook was the hip thing.
 
