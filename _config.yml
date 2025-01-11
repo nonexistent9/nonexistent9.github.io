@@ -46,6 +46,7 @@ minima:
 header_pages: 
   - pow.md
   - projects.md
+  - progress.md
  
 #show_excerpts: true
 

@@ -1,7 +1,9 @@
 ---
 layout: post 
-title: Year of 2025 - Work in Progress Updates
+title: Progress
 ---
+
+<h2> Year of 2025: Work in Progress Updates </h2>
 
 *Inspired by <a href="https://andykong.org/projects/yearofoutput" target="_blank">Year of Output</a>* 
 
