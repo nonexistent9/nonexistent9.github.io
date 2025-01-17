@@ -23,3 +23,12 @@ Efforts must be turned towards stuff that moves the needle.
 Created Mocks/PRDs for [Zeke](https://zeke.so)
 
 Learning React - Completed [this tutorial](https://youtu.be/SqcY0GlETPk?si=rO1xglnK3gK6bPjz)
+
+**Jan 16th**
+I know I just built [triadlabs.co](https://triadlabs.co) but I already revamped it using Bootstrap. Coding is fun. At least frontend.
+
+Spent most of the day yesterday on my freelance Competitive Intelligence Assignment.
+
+There is no escape I need to speedrun JavaScript before I move to the frameworks.
+
+I should look for ways to increase sign ups for Zeke.
