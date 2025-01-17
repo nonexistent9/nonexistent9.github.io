@@ -32,4 +32,6 @@ Spent most of the day yesterday on my freelance Competitive Intelligence Assignm
 
 There is no escape I need to speedrun JavaScript before I move to the frameworks.
 
-I should look for ways to increase sign ups for Zeke.
+I should look for ways to increase sign ups for Zeke, to aid with that I wrote two SEO focused pages: 
+1. [AI Copilot](https://zeke.so/ai-copilot)
+2. [Teal Alternative](https://zeke.so/teal-alternative)
