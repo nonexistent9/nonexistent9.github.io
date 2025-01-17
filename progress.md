@@ -25,6 +25,7 @@ Created Mocks/PRDs for [Zeke](https://zeke.so)
 Learning React - Completed [this tutorial](https://youtu.be/SqcY0GlETPk?si=rO1xglnK3gK6bPjz)
 
 **Jan 16th**
+
 I know I just built [triadlabs.co](https://triadlabs.co) but I already revamped it using Bootstrap. Coding is fun. At least frontend.
 
 Spent most of the day yesterday on my freelance Competitive Intelligence Assignment.
