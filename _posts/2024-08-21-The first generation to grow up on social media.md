@@ -25,3 +25,5 @@ You just can’t go on an any newsfeed without being triggered now, I don’t kn
 I miss the innocence of the early social media days, maybe its just me wearing the rose tinted glasses of nostalgia. But I can’t be the only one who thinks something has to change here. Certainly none of this looks sustainable.
 
 It worries me to see younger folks get into social media in its current state. Being the first generation, we were the lab rats but now it has been optimally weaponized to draw maximum blood.
+
+Edit (19-1-2025): I think I might actually drop out from the most popular platforms such as Insta and X. It is sort of getting unbearable, the algorithmically driven feeds are nasueating and just feels like brain washing now. Really cuts down the brains ability to have original thoughts.  The only reason I use it is to stay in touch with friends. 
