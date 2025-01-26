@@ -33,3 +33,10 @@ Spent most of the day yesterday on my freelance Competitive Intelligence Assignm
 There is no escape I need to speedrun JavaScript before I move to the frameworks.
 
 I should look for ways to increase sign ups for Zeke.
+
+**Jan 25th**
+We are now getting signups on almost a daily basis. It's only 1-2 on most days but still an achievement.
+
+Set up payment related stuff, have a company bank account now, thinking of going with LemonSqueezy for accepting payments. The setup for that has began.
+
+Gearing up for launch for next week. From then on the goal will be on revenue.
