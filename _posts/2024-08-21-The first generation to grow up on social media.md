@@ -4,6 +4,8 @@ title: "The first generation to grow up on social media: A rant"
 ---
 Update (11-1-2025): Meta is apparently now going to allow <a href="https://glaad.org/releases/meta-removes-anti-lgbtq-hate-speech-policies-ends-fact-checking/" target="_blank"> free speech </a> on their platform and is doing away with their content moderation team. This essentially translates to "we no longer take responsibility for what users post on our platform and will allow hateful/racist/transphobic content." We all saw how that worked out for X, can't scroll two seconds on there anymore without coming across neo-nazi content. 
 
+Update (19-1-2025): TikTok is now banned in the US. 
+
 I’m probably part of the first generation that grew up on the internet. I created my first social media account - Facebook when I was in middle school. I had heard about Orkut before that but never bothered to create an account because my understanding was that it was meant for  ‘older people’, Facebook was the hip thing.
 
 And as they say the rest is history. Posting on your friends walls, checking to see if your crush was online, posting awkward selfies, oh and not to mention there was no ‘mobile app’. Everything was through desktop/laptop. It started innocent enough, social media was a way to stay in touch with your friends, post photos, play Farmville and write emo stuff on your wall.
@@ -23,3 +25,5 @@ You just can’t go on an any newsfeed without being triggered now, I don’t kn
 I miss the innocence of the early social media days, maybe its just me wearing the rose tinted glasses of nostalgia. But I can’t be the only one who thinks something has to change here. Certainly none of this looks sustainable.
 
 It worries me to see younger folks get into social media in its current state. Being the first generation, we were the lab rats but now it has been optimally weaponized to draw maximum blood.
+
+Edit (19-1-2025): I think I might actually drop out from the most popular platforms such as Insta and X. It is sort of getting unbearable, the algorithmically driven feeds are nasueating and just feels like brain washing now. Really cuts down the brains ability to have original thoughts.  The only reason I use it is to stay in touch with friends. 

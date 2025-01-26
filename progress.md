@@ -32,7 +32,20 @@ Spent most of the day yesterday on my freelance Competitive Intelligence Assignm
 
 There is no escape I need to speedrun JavaScript before I move to the frameworks.
 
-I should look for ways to increase sign ups for Zeke.
+I should look for ways to increase sign ups for Zeke, to aid with that I wrote two SEO focused pages:
+
+1. [AI Copilot](https://zeke.so/ai-copilot)
+2. [Teal Alternative](https://zeke.so/teal-alternative)
+
+**Jan 18th**
+
+Built another webpage — [Read.cv Alternative](https://zeke.so/portfolio-builder)
+
+Read.cv shutdown, we decided to build an alternative. Will be a good addition to Zeke's tools for job seekers.
+
+Drove a few signups through my personal LinkedIn posts. That seems to be the only growth strategy that is decently working.
+
+Couldn't help it, I'm a big fan of OS sites. Created one (using a template of course): [os.varunraghu.com](https://os.varunraghu.com/)
 
 **Jan 25th**
 We are now getting signups on almost a daily basis. It's only 1-2 on most days but still an achievement.
