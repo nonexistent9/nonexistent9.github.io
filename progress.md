@@ -53,3 +53,17 @@ We are now getting signups on almost a daily basis. It's only 1-2 on most days b
 Set up payment related stuff, have a company bank account now, thinking of going with LemonSqueezy for accepting payments. The setup for that has began.
 
 Gearing up for launch for next week. From then on the goal will be on revenue.
+
+**Jan 27th**
+
+
+Wasted quite a bit of time exploring alternatives to capcut yesterday. There is literally no other video editing tool on the market that offers same or similar capabilties as Capcut. DaVinci Resolve was so bad. (Well my Laptop couldn't support the requirements.) 
+
+ 
+
+
+
+
+
+
+
