@@ -53,3 +53,29 @@ We are now getting signups on almost a daily basis. It's only 1-2 on most days b
 Set up payment related stuff, have a company bank account now, thinking of going with LemonSqueezy for accepting payments. The setup for that has began.
 
 Gearing up for launch for next week. From then on the goal will be on revenue.
+
+**Jan 27th**
+
+Wasted quite a bit of time exploring alternatives to capcut yesterday. There is literally no other video editing tool on the market that offers same or similar capabilties as Capcut. DaVinci Resolve was so bad. (Well my Laptop couldn't support the requirements.) 
+
+ **Jan 28-31** 
+
+We can now accept payments. All process around that has been set up. 
+
+I ended the month at around 70 signups. Target was 100. Couldn't get there. Need to introspect and come up with a reason why. What worked was me posting from my account on LinkedIn. 
+
+Posted shorts on [Youtube](https://www.youtube.com/@BigTechPhilosopher) It is actually reaching an audience. Had several comments and lot of views on one of my shorts. Clearly people like watching shorter videos better than reading or long form video. e
+
+Product is not out yet. Focus is on launching. Had a few technical hiccups along the way. 
+
+YC released their request for startups, built a landing page for the docusign 2.0 idea here: [docsy](https://docsylp.vercel.app/) 
+
+Applied to a few accelerators and other founder programs, was rejected. Feeling blue and pathless on several days.. 
+
+Need to lock-in harder. Days are long. Months are short. Years are shorter. 
+
+
+
+
+
+
