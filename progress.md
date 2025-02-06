@@ -56,26 +56,30 @@ Gearing up for launch for next week. From then on the goal will be on revenue.
 
 **Jan 27th**
 
-Wasted quite a bit of time exploring alternatives to capcut yesterday. There is literally no other video editing tool on the market that offers same or similar capabilties as Capcut. DaVinci Resolve was so bad. (Well my Laptop couldn't support the requirements.) 
+Wasted quite a bit of time exploring alternatives to capcut yesterday. There is literally no other video editing tool on the market that offers same or similar capabilties as Capcut. DaVinci Resolve was so bad. (Well my Laptop couldn't support the requirements.)
 
- **Jan 28-31** 
+**Jan 28-31**
 
-We can now accept payments. All process around that has been set up. 
+We can now accept payments. All process around that has been set up.
 
-I ended the month at around 70 signups. Target was 100. Couldn't get there. Need to introspect and come up with a reason why. What worked was me posting from my account on LinkedIn. 
+I ended the month at around 70 signups. Target was 100. Couldn't get there. Need to introspect and come up with a reason why. What worked was me posting from my account on LinkedIn.
 
 Posted shorts on [Youtube](https://www.youtube.com/@BigTechPhilosopher) It is actually reaching an audience. Had several comments and lot of views on one of my shorts. Clearly people like watching shorter videos better than reading or long form video. e
 
-Product is not out yet. Focus is on launching. Had a few technical hiccups along the way. 
+Product is not out yet. Focus is on launching. Had a few technical hiccups along the way.
 
-YC released their request for startups, built a landing page for the docusign 2.0 idea here: [docsy](https://docsylp.vercel.app/) 
+YC released their request for startups, built a landing page for the docusign 2.0 idea here: [docsy](https://docsylp.vercel.app/)
 
-Applied to a few accelerators and other founder programs, was rejected. Feeling blue and pathless on several days.. 
+Applied to a few accelerators and other founder programs, was rejected. Feeling blue and pathless on several days..
 
-Need to lock-in harder. Days are long. Months are short. Years are shorter. 
+Need to lock-in harder. Days are long. Months are short. Years are shorter.
 
+**Feb 1-6**
 
+A good amount of my time was spent focusing on the freelance competitive intelligence assignment for a leading Customer Experience Platform.
 
+Payments flows are being setup and are almost done. I setup Intercom for customer support, thank god for the startup programs. I also got into the Slack ecosystem. A good messaging software goes a long way. Only question - can we afford it once the trial is over. I'm sure I'm going to be addicted to it by then.
 
+Wrote launch emails for Zeke.
 
-
+Posted a reel/short. Got some feedback on how to make it more interesting. Will revamp my content strategy to make it more engaging. Also looking into posting on Instagram to improve content distribution.
