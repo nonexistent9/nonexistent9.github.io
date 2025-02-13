@@ -86,9 +86,6 @@ Posted a reel/short. Got some feedback on how to make it more interesting. Will 
 
 **Feb 12**
 
-Got our first paying customer yesterday! Definitely a big milestone for us as a team. 
+Got our first paying customer yesterday! Definitely a big milestone for us as a team.
 
-Applied to YC. Appied to Ship It by Founders Inc. Just need one big break. 
-
-   
-
+Applied to YC. Appied to Ship It by Founders Inc. Just need one big break.
