@@ -83,3 +83,12 @@ Payments flows are being setup and are almost done. I setup Intercom for custome
 Wrote launch emails for Zeke.
 
 Posted a reel/short. Got some feedback on how to make it more interesting. Will revamp my content strategy to make it more engaging. Also looking into posting on Instagram to improve content distribution.
+
+**Feb 12**
+
+Got our first paying customer yesterday! Definitely a big milestone for us as a team. 
+
+Applied to YC. Appied to Ship It by Founders Inc. Just need one big break. 
+
+
+
