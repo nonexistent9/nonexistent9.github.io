@@ -90,5 +90,5 @@ Got our first paying customer yesterday! Definitely a big milestone for us as a 
 
 Applied to YC. Appied to Ship It by Founders Inc. Just need one big break. 
 
-
+   
 
