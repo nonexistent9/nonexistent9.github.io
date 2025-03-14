@@ -88,4 +88,22 @@ Posted a reel/short. Got some feedback on how to make it more interesting. Will 
 
 Got our first paying customer yesterday! Definitely a big milestone for us as a team.
 
-Applied to YC. Appied to Ship It by Founders Inc. Just need one big break.
+Applied to YC. Applied to Ship It by Founders Inc. Just need one big break.
+
+**Mar 13th**
+
+A lot has happened - might be adding another board member, we are getting really good advise from one of our mentors 
+
+We are now consistently getting signups and got a few more paying customers 
+
+Drop-offs are high, need to understand why. We might be pivoting to a subscription model. 
+
+Talks of a B2B solution is in its initial stages. 
+
+People are very helpful, everyone is going out of their way to help us. Feeling grateful for all the support that we are receiving. 
+
+Applications to accelerators have not been successful, need to rework our pitch. 
+
+There is some momentum, its no longer just the three of us now. We are actually a _team_ 
+
+Funding remains to be a concern. 
