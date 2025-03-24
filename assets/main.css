@@ -1,0 +1,11 @@
+/* Custom styles for the website */
+
+/* Navigation spacing */
+.site-nav .page-link {
+  margin-right: 20px;
+}
+
+/* Add space for the last item too */
+.site-nav .page-link:last-child {
+  margin-right: 0;
+} 
